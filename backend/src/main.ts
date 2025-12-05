@@ -8,7 +8,7 @@ async function bootstrap() {
   app.enableCors({
   origin: [
     'http://localhost:5173', 
-    'https://your-frontend-on-render.com' 
+    'https://https://library-xi-orpin.vercel.app/.com' 
   ],
   credentials: true,
 });
