@@ -1,0 +1,1 @@
+Run `npm install` then `npm run dev`. Uses Vite + Tailwind. Set VITE_API_URL to backend URL.
